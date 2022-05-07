@@ -1,5 +1,5 @@
 {
-  "name": "kw-cli",
+  "name": "kunwu-cli",
   "version": "1.0.0",
   "description": "vite-vue3-template-cli",
   "bin": {
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/hsyq/kw-cli/issues"
   },
-  "homepage": "https://cli.kuwu.tech/",
+  "homepage": "https://github.com/hsyq/kw-cli#readme",
   "publishConfig": {
     "access": "public"
   },
