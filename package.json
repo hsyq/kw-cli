@@ -1,6 +1,6 @@
 {
   "name": "kunwu-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "vite-vue3-template-cli",
   "bin": {
     "kw": "bin/kw.js"
