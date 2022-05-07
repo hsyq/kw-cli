@@ -1,6 +1,6 @@
 {
   "name": "kunwu-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vite-vue3-template-cli",
   "bin": {
     "kw": "bin/kw.js"
@@ -25,15 +25,11 @@
     "access": "public"
   },
   "dependencies": {
-    "axios": "^0.27.2",
     "chalk": "4.1.2",
     "commander": "^9.2.0",
-    "consolidate": "^0.16.0",
     "download-git-repo": "^3.0.2",
-    "ejs": "^3.1.7",
     "fs-extra": "^10.1.0",
     "inquirer": "^8.2.4",
-    "metalsmith": "^2.4.2",
     "ora": "5.4.1"
   },
   "engines": {

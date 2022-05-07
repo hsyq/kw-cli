@@ -20,7 +20,6 @@ jobs:
           node-version: 16
           # 设置发包 npm 地址仓库
           registry-url: https://registry.npmjs.org
-          cache: "pnpm"
 
       - name: Publish
         run: npm publish
